@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.buttons {
+    margin: auto;
+    width: 10%;
+}
+
+#photoContainer{
+    margin: auto;
+    width: 40%;
+}
